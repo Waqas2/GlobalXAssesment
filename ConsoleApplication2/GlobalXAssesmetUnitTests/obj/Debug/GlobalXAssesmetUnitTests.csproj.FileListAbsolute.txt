@@ -1,0 +1,7 @@
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\ConsoleApplication2\GlobalXAssesmetUnitTests\bin\Debug\GlobalXAssesmetUnitTests.dll
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\ConsoleApplication2\GlobalXAssesmetUnitTests\bin\Debug\GlobalXAssesmetUnitTests.pdb
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\ConsoleApplication2\GlobalXAssesmetUnitTests\obj\Debug\GlobalXAssesmetUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\ConsoleApplication2\GlobalXAssesmetUnitTests\obj\Debug\GlobalXAssesmetUnitTests.dll
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\ConsoleApplication2\GlobalXAssesmetUnitTests\obj\Debug\GlobalXAssesmetUnitTests.pdb
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\ConsoleApplication2\GlobalXAssesmetUnitTests\bin\Debug\GlobalXAssesment.exe
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\ConsoleApplication2\GlobalXAssesmetUnitTests\bin\Debug\GlobalXAssesment.pdb

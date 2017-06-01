@@ -1,0 +1,11 @@
+c:\users\waqas\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\GlobalXAssesment.exe.config
+c:\users\waqas\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\GlobalXAssesment.exe
+c:\users\waqas\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\GlobalXAssesment.pdb
+c:\users\waqas\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\GlobalXAssesment.exe
+c:\users\waqas\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\GlobalXAssesment.pdb
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\Assesment_GlobalX\ConsoleApplication2\bin\Debug\GlobalXAssesment.exe.config
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\Assesment_GlobalX\ConsoleApplication2\obj\Debug\GlobalXAssesment.exe
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\Assesment_GlobalX\ConsoleApplication2\obj\Debug\GlobalXAssesment.pdb
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\Assesment_GlobalX\ConsoleApplication2\bin\Debug\GlobalXAssesment.exe
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\Assesment_GlobalX\ConsoleApplication2\bin\Debug\GlobalXAssesment.pdb
+C:\Users\Waqas\Documents\Visual Studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\GlobalXAssesment.csprojResolveAssemblyReference.cache
